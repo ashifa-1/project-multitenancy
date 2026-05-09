@@ -1,0 +1,7 @@
+{
+  "rls_without_index": 0.006873132999317022,
+  "rls_with_index": 0.00314734700077679,
+  "schema_isolation_avg": 0.019940409333988402,
+  "search_path_overhead": 0.00031619347999367164,
+  "index_size": "328 kB"
+}

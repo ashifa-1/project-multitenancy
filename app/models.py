@@ -26,6 +26,6 @@ class Project(models.Model):
     objects = TenantManager()
 
     all_objects = models.Manager()
-
+    
     def __str__(self):
         return self.name
